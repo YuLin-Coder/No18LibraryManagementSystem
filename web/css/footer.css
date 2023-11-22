@@ -1,0 +1,15 @@
+#foot_main{
+	width: 978px;
+	height: 138px;
+}
+
+#foot_title{
+	width: 100%;
+	height: 10px;
+	background: url(../images/copyright_t.gif);
+}
+
+.foot_content{
+	text-align: center;
+	margin-top: 10px;
+}

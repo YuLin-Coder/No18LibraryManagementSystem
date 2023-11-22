@@ -1,0 +1,77 @@
+*{
+	font-family: Microsoft YaHei;
+	margin: 0 auto;
+}
+
+#top{
+	width: 978px;
+	height: 200px;
+	background-color: #F9D16B;
+}
+
+#main{
+	width: 978px;
+	height: 400px;
+}
+
+#main_bg{
+	width: 100%;
+	height: 100%;
+}
+
+#login_block{
+	width:360px;
+	height: 200px;
+	position: relative;
+	top:-230px;
+	left:160px;
+}
+
+tr{
+	height: 40px;
+}
+
+.title{
+	text-align: right;
+}
+
+.input{
+	padding-left: 30px;
+}
+
+.btn{
+	width: 70px;
+	height: 40px;
+	background-color: #EBC543;
+	float: left;
+	margin-left: 40px;
+	text-align: center;
+	line-height: 40px;
+	cursor: pointer;
+	color:#151511;
+	margin-top: 10px;
+}
+
+.btn:hover{
+	background-color:#7E6138;
+	color:white;
+}
+
+.login_input{
+	height:20px;
+	border:1px solid #E7BA4E;
+	border-radius: 5px;
+	outline: none;
+	padding-left: 20px;
+}
+
+#footer{
+	width: 978px;
+	height: 200px;
+	background-color: #F9D16B;
+	padding-top: 50px;
+}
+
+.foot_content{
+	text-align: center;
+}

@@ -1,0 +1,42 @@
+#main{
+	width:978px;
+	height: 650px;
+}
+
+.table{
+	width:100%;
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+table tr{
+	cursor: pointer;
+}
+
+table tr:hover{
+	background-color: #F0F0F0;
+}
+
+table td{
+	height:40px;
+	text-align: center;
+}
+
+.navigation{
+	width:100%;
+	height: 30px;
+	position: relative;
+	left: 10px;
+	top:5px;
+	font-size: 13px;
+}
+
+#readerBlock{
+	width:200px;
+	height: 100%;
+	float: right;
+	margin-right: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 13px;
+}
